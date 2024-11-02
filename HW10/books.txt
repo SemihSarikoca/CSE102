@@ -1,0 +1,25 @@
+101,Dune,Frank Herbert,1965,0
+102,1984,George Orwell,1949,0
+103,Fahrenheit 451,Ray Bradbury,1953,0
+104,Moby-Dick,Herman Melville,1851,0
+105,Pride and Prejudice,Jane Austen,1813,0
+106,To Kill a Mockingbird,Harper Lee,1960,0
+107,The Great Gatsby,F. Scott Fitzgerald,1925,0
+108,The Catcher in the Rye,J.D. Salinger,1951,0
+109,The Hobbit,J.R.R. Tolkien,1937,0
+110,Brave New World,Aldous Huxley,1932,0
+111,One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,0
+112,Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,0
+113,The Alchemist,Paulo Coelho,1988,0
+114,The Lord of the Rings,J.R.R. Tolkien,1954,0
+115,The Adventures of Huckleberry Finn,Mark Twain,1884,0
+116,Alice's Adventures in Wonderland,Lewis Carroll,1865,0
+117,Where the Red Fern Grows,Wilson Rawls,1961,1
+118,The Picture of Dorian Gray,Oscar Wilde,1890,0
+119,Ender's Game,Orson Scott Card,1985,0
+120,The Book Thief,Markus Zusak,2005,1
+121,The Giver,Lois Lowry,1993,0
+122,The Brothers Karamazov,Fyodor Dostoyevsky,1880,0
+123,The Lightning Thief,Rick Riordan,2005,0
+124,The Diary of a Young Girl,Anne Frank,1947,0
+170,Araba Sevdasi,Recaizade Mahmutekrem,1989,1

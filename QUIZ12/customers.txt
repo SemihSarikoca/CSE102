@@ -1,0 +1,10 @@
+Will Smith-42-VIP-4
+Beyoncé Knowles-40-VIP-4
+Taylor Swift-32-VIP-4
+Leonardo DiCaprio-47-OD-3
+Robert Downey Jr.-57-OD-3
+Bob Johnson-30-NORMAL-2
+Angelina Jolie-46-VETERAN-2
+Jennifer Aniston-52-VETERAN-2
+Tom Hanks-65-NORMAL-1
+Semih-20-NORMAL-3

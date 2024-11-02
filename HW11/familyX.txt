@@ -1,0 +1,4 @@
+John,50,NULL,NULL
+Alice,45,NULL,NULL
+Peter,25,John,Alice
+Sarah,22,John,Alice

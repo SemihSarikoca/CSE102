@@ -1,0 +1,10 @@
+Table Brown 199.99 246202 38
+Sofa Gray 599.99 823521 292
+Desk White 149.99 199324 41
+Bookcase Black 129.99 829213 62
+Bed Brown 499.99 321153 19
+Dresser White 299.99 923411 22
+Cabinet Brown 179.99 521344 35
+TVStand Black 89.99 621311 58
+Mirror Silver 59.99 732321 41
+Chair Red 50.00 236123 49
